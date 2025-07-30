@@ -13,4 +13,9 @@ Sepete ürün ekleme, çıkarma, güncelleme ve toplam fiyat dinamik hesaplama
 Sipariş oluşturma, sipariş detaylarının saklanması ve fiyat geçmişi
 Hata yönetimi (stok yetersiz, kaynak bulunamadı vb.)
 
-Daha detaylı API dökümantasyonu için lütfen [Ecommerce Projesi Raporu (PDF)](./Ecommerce_Project.pdf) dosyasını inceleyin.
+
+Bunun yerine düz link kullan:
+
+```markdown
+📄 [Proje Dökümantasyonunu İndir (PDF)](./Ecommerce_Project_Report.pdf)
+
